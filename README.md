@@ -4,14 +4,9 @@ A project for producing low-cost, easily-assembled simulation eyes for use in op
 Note: the underlying model, the algorithm and the provided implementation are all being actively developed and have yet to be peer reviewed. They are provided here purely for information.
 
 ## Interactive examples
-A simple interface to produce gores from example images or by uploading image files
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stuwilmur/sim-eye/HEAD?urlpath=voila%2Frender%2FInterface.ipynb)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/sim-eye/HEAD?filepath=Interface.ipynb)
 
-A Jupyter Notebook to produce gores and try out the code yourself
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stuwilmur/sim-eye/HEAD?filepath=Interface.ipynb)
-
-A Jupyter Notebook that explains some of the functions used
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stuwilmur/sim-eye/HEAD?filepath=Example.ipynb)
+ 
 ## Environment setup
 Use of a virtual environment is recommended. Instructions are given for Anaconda, but use your preferred environment manager.
 
